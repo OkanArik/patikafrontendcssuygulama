@@ -1,0 +1,28 @@
+h1,h4{
+    text-align: center;
+    color: red;
+}
+a{   
+    color: saddlebrown;
+}
+body{
+    background-color: skyblue;
+}
+ul,ol{
+    list-style-position: inside;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: slateblue;
+}
+h3{
+    text-align: center;
+    color: yellow;
+}
+p{
+    margin: 20px;
+}
+footer{
+    margin: 20px ;
+}
